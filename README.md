@@ -37,7 +37,7 @@ Installation
 
 Clone Repository
 
-git clone 
+git clone https://github.com/Falconsinan/Falcon-ipchanger.git
 
 Give Permission
 
